@@ -16,6 +16,4 @@ public class ArraySortingTest {
 
         Assert.assertNotNull(arraySortingResult);
     }
-
-
 }
